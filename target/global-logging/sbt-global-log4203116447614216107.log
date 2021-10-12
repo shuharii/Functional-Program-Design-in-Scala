@@ -1,0 +1,11 @@
+[debug] > Exec(eren.gunestas@bahcesehir.edu.tr evbJHPGlELVXNtsg, None, None)
+[error] Expected ID character
+[error] Not a valid command: eren
+[error] Expected project ID
+[error] Expected configuration
+[error] Expected ':'
+[error] Expected key
+[error] Not a valid key: eren (similar: run, version, clean)
+[error] eren.gunestas@bahcesehir.edu.tr evbJHPGlELVXNtsg
+[error]     ^
+[debug] > Exec(idea-shell, None, None)

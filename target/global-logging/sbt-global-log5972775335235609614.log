@@ -1,0 +1,20 @@
+[debug] > Exec(submit eren.gunestas@bahcesehir.edu.tr evbJHPGlELVXNtsg, None, None)
+[debug] Evaluating tasks: submit
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[info] compiling 1 Scala source to C:\Users\Shuhari\IdeaProjects\example_\target\scala-3.0.0\classes ...
+[info] done compiling
+[info] Attempting to submit "example" assignment in "scala-functional-programming" course
+[info] Using:
+[info] - email: eren.gunestas@bahcesehir.edu.tr
+[info] - submit token: evbJHPGlELVXNtsg
+[info] Connecting to Coursera...
+[info] Successfully connected to Coursera. (Status 201)
+[info] 
+[info] Assignment submitted successfully!
+[info] 
+[info] You can see how you scored by going to:
+[info] https://www.coursera.org/learn/scala-functional-programming/programming/AYDPu/
+[info] 
+[info] and clicking on "My Submission".
+[success] Total time: 3 s, completed Oct 12, 2021, 2:06:29 AM
+[debug] > Exec(idea-shell, None, None)
