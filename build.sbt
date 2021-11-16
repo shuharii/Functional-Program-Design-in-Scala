@@ -1,11 +1,12 @@
 course := "progfun2"
-assignment := "streams"
+assignment := "codecs"
 
 scalaVersion := "3.0.0"
 
-scalacOptions ++= Seq("-language:implicitConversions", "-deprecation")
+scalacOptions ++= Seq("-deprecation")
 
 libraryDependencies ++= Seq(
-  "org.scalameta" %% "munit" % "0.7.26" % Test,
-  "org.scalacheck" %% "scalacheck" % "1.15.4" % Test
+  "org.typelevel" %% "jawn-parser" % "1.1.2",
+  "org.scalacheck" %% "scalacheck" % "1.15.4" % Test,
+  "org.scalameta" %% "munit" % "0.7.26" % Test
 )
